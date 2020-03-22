@@ -1,7 +1,7 @@
 Nexbit
 =====================================
 
-https://blackcoinmore.org
+https://nexbit.io
 
 What is Nexbit?
 ----------------
