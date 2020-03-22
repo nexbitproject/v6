@@ -1,15 +1,15 @@
 Nexbit
 =====================================
 
-https://blackcoinmore.org
+https://nexbit.io
 
-What is Blackcoin?
+What is Nexbit?
 ----------------
 
-Blackcoin is a decentralised digital currency with near-instant transaction speeds and negligible transaction fees built upon Proof of Stake 3.0 (PoSV3, BPoS) as
-introduced by the Blackcoin development team.
+Nexbit is a decentralised digital currency with near-instant transaction speeds and negligible transaction fees built upon Proof of Stake 3.0 (PoSV3, BPoS) as
+introduced by the Nexbit development team.
 
-For more information about Blackcoin itself, see https://nexbit.org.
+For more information about Nexbit itself, see https://nexbit.io.
 
 What is Nexbit?
 ----------------
@@ -17,7 +17,7 @@ What is Nexbit?
 Nexbit is the name of open source software which enables the use of this currency. It takes Blackcoin to the next level by building upon
 Bitcoin Core 0.13.2 with some patches from newer Bitcoin Core versions to offer performance enhancements, wider compatibility with third party services and a more advanced base.
 
-For more information, as well as an immediately useable, binary version of the Nexbit software, see https://blackcoinmore.org.
+For more information, as well as an immediately useable, binary version of the Nexbit software, see 
 
 License
 -------
@@ -36,7 +36,7 @@ Change log can be found in [CHANGELOG.md](CHANGELOG.md).
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The best place to get started is to join the Development channel on Gitter: https://gitter.im/Blackcoin_Hub/Development
+The best place to get started is to join the Development channel on Gitter: https://gitter.im/nexbit/Development
 
 Testing
 -------
